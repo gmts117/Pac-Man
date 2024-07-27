@@ -1,0 +1,10 @@
+﻿  AIMonster.cpp
+  gameManager.cpp
+C:\Users\CHGpi\code\ConsoleGame\Pac-Man\Pac-Man\gameManager.cpp(54,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  mygameheader.cpp
+C:\Users\CHGpi\code\ConsoleGame\Pac-Man\Pac-Man\mygameheader.cpp(9,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\CHGpi\code\ConsoleGame\Pac-Man\Pac-Man\mygameheader.cpp(9,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  player.cpp
+  코드를 생성하고 있습니다...
+  Pac-Man.vcxproj -> C:\Users\CHGpi\code\ConsoleGame\Pac-Man\x64\Debug\Pac-Man.exe
